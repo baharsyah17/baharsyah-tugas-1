@@ -9,7 +9,10 @@
         <li><a href="youtube">Youtube</a></li>
       </ul>
     </nav>
-    <h1>Welcome Home!</h1>
+    <h1>Akses Menuju Twitter</h1>
+    <a href="https://twitter.com/?lang=en">
+      <center><button>Twitter</button></center>
+    </a>
   </div>
 </template>
 
@@ -41,5 +44,13 @@ li a:hover:not(.active) {
 h1 {
   text-align: center;
   font-size: 30px;
+}
+button {
+  text-align: center;
+  display: block;
+  background: aqua;
+  color: white;
+  padding: 20px;
+  border-radius: 20px;
 }
 </style>

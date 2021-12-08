@@ -1,5 +1,5 @@
 {
-  "name": "Baharsyah-tugas-1",
+  "name": "baharsyah-tugas-1",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "bootstrap-icons": "^1.7.2",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7"
   },
